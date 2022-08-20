@@ -1,10 +1,14 @@
 {
-  "name": "hotel",
+  "name": "hotel-app",
   "version": "1.0.0",
   "description": "This is a desktop app to manage hotel rooms and generate documents",
   "main": "src/index.js",
   "scripts": {
     "start": "electron src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pethofreed/Hotel-app.git"
   },
   "keywords": [],
   "author": "",
